@@ -13,11 +13,11 @@
 
 # Tool has to be consistent and allow for options to return, continue and amend 
 # FUNCTIONS: 
-#
-#
-#
-#
-#
+# - User Input 
+# - User Navigation
+# - User Data Handling (CSV)
+# - User Data Encryption
+# - User 
 #
 #
 #
